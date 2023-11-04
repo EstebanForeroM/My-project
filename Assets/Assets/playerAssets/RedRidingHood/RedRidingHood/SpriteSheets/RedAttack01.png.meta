@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: e654d9cabf4d7134caf2bd9623da6ff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8153506171498335039
+    second: RedAttack01_0
+  - first:
+      213: 6240446691590481819
+    second: RedAttack01_1
+  - first:
+      213: -954568917181453556
+    second: RedAttack01_2
+  - first:
+      213: -236019115846433309
+    second: RedAttack01_3
+  - first:
+      213: 3559078256427532405
+    second: RedAttack01_4
+  - first:
+      213: 5547498832310394038
+    second: RedAttack01_5
+  - first:
+      213: 1924912122971467773
+    second: RedAttack01_6
+  - first:
+      213: -4487827628303030447
+    second: RedAttack01_7
+  - first:
+      213: -4128362018543410499
+    second: RedAttack01_8
+  - first:
+      213: -4518125489554487441
+    second: RedAttack01_9
+  - first:
+      213: -3363021211779280411
+    second: RedAttack01_10
+  - first:
+      213: 1531994131805442157
+    second: RedAttack01_11
+  - first:
+      213: 7985016408650695564
+    second: RedAttack01_12
+  - first:
+      213: -8073727585412928628
+    second: RedAttack01_13
+  - first:
+      213: 4336220015832881097
+    second: RedAttack01_14
+  - first:
+      213: 5542466165674632037
+    second: RedAttack01_15
+  - first:
+      213: -3980586847899172495
+    second: RedAttack01_16
+  - first:
+      213: 5070237528713722412
+    second: RedAttack01_17
+  - first:
+      213: -267522272702967778
+    second: RedAttack01_18
+  - first:
+      213: -5085124934878478850
+    second: RedAttack01_19
+  - first:
+      213: -8356370483762792352
+    second: RedAttack01_20
+  - first:
+      213: -5524822846013440330
+    second: RedAttack01_21
+  - first:
+      213: -3685283753767288823
+    second: RedAttack01_22
+  - first:
+      213: -8880674226904603123
+    second: RedAttack01_23
+  - first:
+      213: 9180491352734922160
+    second: RedAttack01_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedAttack01_0
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 6548
+        width: 273
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f2ed065de8de80800000000000000
+      internalID: -8153506171498335039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_1
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 6553
+        width: 285
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972304e3358a9650800000000000000
+      internalID: 6240446691590481819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_2
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 6553
+        width: 346
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b25c990a0b0c2f0800000000000000
+      internalID: -954568917181453556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_3
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 6553
+        width: 474
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e585c75ddd79bcf0800000000000000
+      internalID: -236019115846433309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_4
+      rect:
+        serializedVersion: 2
+        x: 7339
+        y: 6552
+        width: 323
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5700e2241d2646130800000000000000
+      internalID: 3559078256427532405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 5008
+        width: 261
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc51cbcbccacfc40800000000000000
+      internalID: 5547498832310394038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_6
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 5009
+        width: 312
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffae819069a6ba10800000000000000
+      internalID: 1924912122971467773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_7
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 5009
+        width: 520
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15760d1bc8808b1c0800000000000000
+      internalID: -4487827628303030447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_8
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 5009
+        width: 401
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2618cfd9c15b6c0800000000000000
+      internalID: -4128362018543410499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_9
+      rect:
+        serializedVersion: 2
+        x: 7278
+        y: 5006
+        width: 430
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6787782ec46c41c0800000000000000
+      internalID: -4518125489554487441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3465
+        width: 323
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1dac3a6062451d0800000000000000
+      internalID: -3363021211779280411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_11
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 3465
+        width: 335
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601f38cb8cb24510800000000000000
+      internalID: 1531994131805442157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_12
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3465
+        width: 538
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c834a430e1a70de60800000000000000
+      internalID: 7985016408650695564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_13
+      rect:
+        serializedVersion: 2
+        x: 5704
+        y: 3465
+        width: 415
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba03a998b54ff80800000000000000
+      internalID: -8073727585412928628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_14
+      rect:
+        serializedVersion: 2
+        x: 7286
+        y: 3462
+        width: 422
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c758af41295d2c30800000000000000
+      internalID: 4336220015832881097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1921
+        width: 493
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56368a8cc9bcaec40800000000000000
+      internalID: 5542466165674632037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_16
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1921
+        width: 528
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c0651a5d12c8c0800000000000000
+      internalID: -3980586847899172495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_17
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1921
+        width: 573
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af5d94b2a1d5640800000000000000
+      internalID: 5070237528713722412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_18
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 1920
+        width: 477
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10d80e09e1994cf0800000000000000
+      internalID: -267522272702967778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_19
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 1917
+        width: 413
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd361a50d10e69b0800000000000000
+      internalID: -5085124934878478850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 376
+        width: 362
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06872c7a155380c80800000000000000
+      internalID: -8356370483762792352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_21
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 376
+        width: 356
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bef760b4e2e353b0800000000000000
+      internalID: -5524822846013440330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_22
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 376
+        width: 348
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900ce2093fd3bdcc0800000000000000
+      internalID: -3685283753767288823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_23
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 376
+        width: 340
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06626ba7d181c480800000000000000
+      internalID: -8880674226904603123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedAttack01_24
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 372
+        width: 300
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57f47be38a76f70800000000000000
+      internalID: 9180491352734922160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

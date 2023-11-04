@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb56a200aa4264447a1665b29bdd6204
+timeCreated: 1506638329
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116877
+  packageName: Black and White - Dark Forest
+  packageVersion: 2021.1
+  assetPath: Assets/Ciconia Studio/2D Environment/Black&White - Dark Forest/Prefabs/_Prefabs
+    + Colliders/Ground Collider/Slopes/Ground3_Slope_L_3.prefab
+  uploadId: 427784

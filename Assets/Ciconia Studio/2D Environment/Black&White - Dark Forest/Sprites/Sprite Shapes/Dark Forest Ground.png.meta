@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 7932fef3fb36dcb4c90dd59117fec699
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116877
+  packageName: Black and White - Dark Forest
+  packageVersion: 2021.1
+  assetPath: Assets/Ciconia Studio/2D Environment/Black&White - Dark Forest/Sprites/Sprite
+    Shapes/Dark Forest Ground.png
+  uploadId: 427784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1647932796809056456
+    second: DarkForest_Ground_01_Top
+  - first:
+      213: -4554033196134024912
+    second: DarkForest_Ground_01_Corner_OuterTopLeft
+  - first:
+      213: -7918920420991962099
+    second: DarkForest_Ground_01_Corner_OuterTopRight
+  - first:
+      213: -3350358255768302833
+    second: DarkForest_Ground_01_Bottom
+  - first:
+      213: -4013986979835614331
+    second: DarkForest_Ground_01_Corner_OuterBottomLeft
+  - first:
+      213: -3232079962468894321
+    second: DarkForest_Ground_01_Corner_OuterBottomRight
+  - first:
+      213: -6615504391564557277
+    second: DarkForest_Ground_01_Left
+  - first:
+      213: 4039944053094522210
+    second: DarkForest_Ground_01_Right
+  - first:
+      213: -3038445176009877229
+    second: DarkForest_Ground_02_Top
+  - first:
+      213: -8874603876579447314
+    second: DarkForest_Ground_02_Bottom
+  - first:
+      213: -7856797253216001134
+    second: DarkForest_Ground_02_Left
+  - first:
+      213: -8309190606464079695
+    second: DarkForest_Ground_02_Right
+  - first:
+      213: -5396333014451782815
+    second: DarkForest_Ground_02_Corner_OuterTopLeft
+  - first:
+      213: -5728949947257278860
+    second: DarkForest_Ground_02_Corner_OuterTopRight
+  - first:
+      213: 4847839351022159167
+    second: DarkForest_Ground_02_Corner_OuterBottomLeft
+  - first:
+      213: -1603811213818594094
+    second: DarkForest_Ground_02_Corner_OuterBottomRight
+  - first:
+      213: 2154374019926275934
+    second: Dark Forest Ground_8
+  - first:
+      213: -9089421929647442888
+    second: Dark Forest Ground_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Top
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1638
+        width: 614
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fea783add5129e0800000000000000
+      internalID: -1647932796809056456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Corner_OuterTopLeft
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1652
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0393819bfe2dcc0c0800000000000000
+      internalID: -4554033196134024912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Corner_OuterTopRight
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1655
+        width: 238
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ff2655d75a1290800000000000000
+      internalID: -7918920420991962099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Bottom
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1377
+        width: 614
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b02a6dae22181d0800000000000000
+      internalID: -3350358255768302833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Corner_OuterBottomLeft
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1353
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58beadddb147b48c0800000000000000
+      internalID: -4013986979835614331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Corner_OuterBottomRight
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1355
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89326ff5685523d0800000000000000
+      internalID: -3232079962468894321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Left
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1077
+        width: 405
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32402ca6ec10134a0800000000000000
+      internalID: -6615504391564557277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_01_Right
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1093
+        width: 403
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d962536b3c01830800000000000000
+      internalID: 4039944053094522210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Top
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 642
+        width: 676
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199e66f53645d5d0800000000000000
+      internalID: -3038445176009877229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Bottom
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 393
+        width: 676
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6d2e3bc217d480800000000000000
+      internalID: -8874603876579447314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Left
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 137
+        width: 404
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293abc9768c07f290800000000000000
+      internalID: -7856797253216001134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Right
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 138
+        width: 406
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b822bada23dfac80800000000000000
+      internalID: -8309190606464079695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Corner_OuterTopLeft
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 648
+        width: 217
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b73efd6bf5c15b0800000000000000
+      internalID: -5396333014451782815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Corner_OuterTopRight
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 651
+        width: 235
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eacb1506eae70b0800000000000000
+      internalID: -5728949947257278860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Corner_OuterBottomLeft
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 367
+        width: 218
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3506dd643cf64340800000000000000
+      internalID: 4847839351022159167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkForest_Ground_02_Corner_OuterBottomRight
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 364
+        width: 219
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcfd89c23e1eb9e0800000000000000
+      internalID: -1603811213818594094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0f29fe4fb09cffb4b9f31c1fc54fc430
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DarkForest_Ground_01_Bottom: -3350358255768302833
+      DarkForest_Ground_01_Corner_OuterBottomLeft: -4013986979835614331
+      DarkForest_Ground_01_Corner_OuterBottomRight: -3232079962468894321
+      DarkForest_Ground_01_Corner_OuterTopLeft: -4554033196134024912
+      DarkForest_Ground_01_Corner_OuterTopRight: -7918920420991962099
+      DarkForest_Ground_01_Left: -6615504391564557277
+      DarkForest_Ground_01_Right: 4039944053094522210
+      DarkForest_Ground_01_Top: -1647932796809056456
+      DarkForest_Ground_02_Bottom: -8874603876579447314
+      DarkForest_Ground_02_Corner_OuterBottomLeft: 4847839351022159167
+      DarkForest_Ground_02_Corner_OuterBottomRight: -1603811213818594094
+      DarkForest_Ground_02_Corner_OuterTopLeft: -5396333014451782815
+      DarkForest_Ground_02_Corner_OuterTopRight: -5728949947257278860
+      DarkForest_Ground_02_Left: -7856797253216001134
+      DarkForest_Ground_02_Right: -8309190606464079695
+      DarkForest_Ground_02_Top: -3038445176009877229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

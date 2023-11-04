@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d279e6809e5ddbb4bac650918f1d0de3
+timeCreated: 1506640503
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116877
+  packageName: Black and White - Dark Forest
+  packageVersion: 2021.1
+  assetPath: Assets/Ciconia Studio/2D Environment/Black&White - Dark Forest/Prefabs/_Prefabs
+    + Colliders/Trunk Collider/Trunk_0.prefab
+  uploadId: 427784

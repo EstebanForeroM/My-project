@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e0cd61393dd5cd749bfadf762cb80ae0
+timeCreated: 1506640534
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116877
+  packageName: Black and White - Dark Forest
+  packageVersion: 2021.1
+  assetPath: Assets/Ciconia Studio/2D Environment/Black&White - Dark Forest/Prefabs/_Prefabs
+    + Colliders/Spikes Collider/Spike_0.prefab
+  uploadId: 427784

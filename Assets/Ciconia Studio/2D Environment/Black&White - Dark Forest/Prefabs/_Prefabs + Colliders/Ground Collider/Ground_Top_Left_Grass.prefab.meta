@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3bb143150108a1f499c1ef689f2b933f
+timeCreated: 1524479127
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116877
+  packageName: Black and White - Dark Forest
+  packageVersion: 2021.1
+  assetPath: Assets/Ciconia Studio/2D Environment/Black&White - Dark Forest/Prefabs/_Prefabs
+    + Colliders/Ground Collider/Ground_Top_Left_Grass.prefab
+  uploadId: 427784

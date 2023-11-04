@@ -1,0 +1,1036 @@
+fileFormatVersion: 2
+guid: b4ab7632f8738d84fa872855d467c439
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3905740256618294941
+    second: RedWalk_0
+  - first:
+      213: 5023446414962331117
+    second: RedWalk_1
+  - first:
+      213: 1193684393548283080
+    second: RedWalk_2
+  - first:
+      213: 1417189687341970717
+    second: RedWalk_3
+  - first:
+      213: -8379171547736448837
+    second: RedWalk_4
+  - first:
+      213: -7400978421175728847
+    second: RedWalk_5
+  - first:
+      213: -3762912023513484566
+    second: RedWalk_6
+  - first:
+      213: 148638290846607111
+    second: RedWalk_7
+  - first:
+      213: -941482638366441871
+    second: RedWalk_8
+  - first:
+      213: -4091233148515425901
+    second: RedWalk_9
+  - first:
+      213: 3225603719573720814
+    second: RedWalk_10
+  - first:
+      213: -2658373333089329320
+    second: RedWalk_11
+  - first:
+      213: -6576402645586225010
+    second: RedWalk_12
+  - first:
+      213: -1906933303094665891
+    second: RedWalk_13
+  - first:
+      213: -5699214527109443501
+    second: RedWalk_14
+  - first:
+      213: 7001592657864112428
+    second: RedWalk_15
+  - first:
+      213: 5507337357350344617
+    second: RedWalk_16
+  - first:
+      213: -8320048028442578973
+    second: RedWalk_17
+  - first:
+      213: 8126440964737826976
+    second: RedWalk_18
+  - first:
+      213: 2083679313268631351
+    second: RedWalk_19
+  - first:
+      213: 1621639087141454165
+    second: RedWalk_20
+  - first:
+      213: 4395184197439809354
+    second: RedWalk_21
+  - first:
+      213: 7380185701593271537
+    second: RedWalk_22
+  - first:
+      213: 7490781977702014592
+    second: RedWalk_23
+  - first:
+      213: 2791355698687524311
+    second: RedWalk_24
+  - first:
+      213: -488774983771172717
+    second: RedWalk_25
+  - first:
+      213: 9138025456262053550
+    second: RedWalk_26
+  - first:
+      213: -1415496803145142404
+    second: RedWalk_27
+  - first:
+      213: -8753370352707450933
+    second: RedWalk_28
+  - first:
+      213: 4477831732659979796
+    second: RedWalk_29
+  - first:
+      213: 8987604643219870158
+    second: RedWalk_30
+  - first:
+      213: -9065987175835926365
+    second: RedWalk_31
+  - first:
+      213: -4054428293906729141
+    second: RedWalk_32
+  - first:
+      213: 1390825044913798477
+    second: RedWalk_33
+  - first:
+      213: 3422120335983676709
+    second: RedWalk_34
+  - first:
+      213: -7615945136056925464
+    second: RedWalk_35
+  - first:
+      213: 1271542840180891382
+    second: RedWalk_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedWalk_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2568
+        width: 310
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2da4e11af33630800000000000000
+      internalID: 3905740256618294941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2568
+        width: 310
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded0a0826edd6b540800000000000000
+      internalID: 5023446414962331117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2566
+        width: 297
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc7f5ba1a1d09010800000000000000
+      internalID: 1193684393548283080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2563
+        width: 291
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157d55138edaa310800000000000000
+      internalID: 1417189687341970717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2563
+        width: 305
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0eb114fd337bb80800000000000000
+      internalID: -8379171547736448837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2558
+        width: 317
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354d7786517a4990800000000000000
+      internalID: -7400978421175728847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_6
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2566
+        width: 297
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2be6d837377cbc0800000000000000
+      internalID: -3762912023513484566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_7
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2562
+        width: 230
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707eeedecb1101200800000000000000
+      internalID: 148638290846607111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1927
+        width: 291
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e78f1578e2fe2f0800000000000000
+      internalID: -941482638366441871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1926
+        width: 286
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916f61b0250937c0800000000000000
+      internalID: -4091233148515425901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_10
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1925
+        width: 285
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeece533e75a3cc20800000000000000
+      internalID: 3225603719573720814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_11
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1925
+        width: 298
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd6d8c98f8b1bd0800000000000000
+      internalID: -2658373333089329320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_12
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1926
+        width: 312
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d4e913acebb4a0800000000000000
+      internalID: -6576402645586225010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1923
+        width: 317
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1ea2a3463985e0800000000000000
+      internalID: -1906933303094665891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_14
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1928
+        width: 287
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35055e4559258e0b0800000000000000
+      internalID: -5699214527109443501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_15
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1924
+        width: 222
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2939f12d67aa2160800000000000000
+      internalID: 7001592657864112428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1288
+        width: 319
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a71b1bb52efd6c40800000000000000
+      internalID: 5507337357350344617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1288
+        width: 318
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efad7e4660498c80800000000000000
+      internalID: -8320048028442578973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_18
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1288
+        width: 318
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0816f600be6c070800000000000000
+      internalID: 8126440964737826976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_19
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1279
+        width: 317
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737e43dab47baec10800000000000000
+      internalID: 2083679313268631351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_20
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1280
+        width: 317
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55184fe6828318610800000000000000
+      internalID: 1621639087141454165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_21
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1289
+        width: 338
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a476fcaadb4defc30800000000000000
+      internalID: 4395184197439809354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_22
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1288
+        width: 254
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc42ef2bcfab6660800000000000000
+      internalID: 7380185701593271537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_23
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1284
+        width: 214
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e93d6558a94f760800000000000000
+      internalID: 7490781977702014592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 654
+        width: 348
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd380ef733ecb620800000000000000
+      internalID: 2791355698687524311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 659
+        width: 350
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390d83dedb58739f0800000000000000
+      internalID: -488774983771172717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_26
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 658
+        width: 340
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaef9f4bcb9c0de70800000000000000
+      internalID: 9138025456262053550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_27
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 656
+        width: 330
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f25db38252b5ce0800000000000000
+      internalID: -1415496803145142404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_28
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 655
+        width: 319
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7cf63aa08c58680800000000000000
+      internalID: -8753370352707450933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_29
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 654
+        width: 309
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4168b2d7c34742e30800000000000000
+      internalID: 4477831732659979796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_30
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 650
+        width: 237
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec195ccfdc26abc70800000000000000
+      internalID: 8987604643219870158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_31
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 647
+        width: 207
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a08d0e72b42f2280800000000000000
+      internalID: -9065987175835926365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 214
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47756ea2f6cbb7c0800000000000000
+      internalID: -4054428293906729141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 223
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dbdca62043d4310800000000000000
+      internalID: 1390825044913798477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_34
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 4
+        width: 232
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d82fc7050dd7f20800000000000000
+      internalID: 3422120335983676709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_35
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 8
+        width: 243
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e28670ff3abe4690800000000000000
+      internalID: -7615945136056925464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWalk_36
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 15
+        width: 276
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe5ca9e97d65a110800000000000000
+      internalID: 1271542840180891382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

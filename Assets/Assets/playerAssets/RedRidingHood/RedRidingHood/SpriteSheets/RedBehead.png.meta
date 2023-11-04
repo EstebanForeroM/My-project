@@ -1,0 +1,2188 @@
+fileFormatVersion: 2
+guid: d9c13119a41413241aeff8d3b9ba48e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4958185821007780135
+    second: RedBehead_0
+  - first:
+      213: -3307990707199696557
+    second: RedBehead_1
+  - first:
+      213: -6882579275459903819
+    second: RedBehead_2
+  - first:
+      213: 1107134881886526958
+    second: RedBehead_3
+  - first:
+      213: 3618065452897984776
+    second: RedBehead_4
+  - first:
+      213: -4785261628740127159
+    second: RedBehead_5
+  - first:
+      213: 7493693322626866082
+    second: RedBehead_6
+  - first:
+      213: -6990058703575157066
+    second: RedBehead_7
+  - first:
+      213: -8594125511752091783
+    second: RedBehead_8
+  - first:
+      213: 1849811727269640659
+    second: RedBehead_9
+  - first:
+      213: -1323811984064113445
+    second: RedBehead_10
+  - first:
+      213: -4829731508606083386
+    second: RedBehead_11
+  - first:
+      213: -6789777794004336871
+    second: RedBehead_12
+  - first:
+      213: 1276142925366158553
+    second: RedBehead_13
+  - first:
+      213: -6115400903615677505
+    second: RedBehead_14
+  - first:
+      213: 8763661885427635843
+    second: RedBehead_15
+  - first:
+      213: 5089142451293012629
+    second: RedBehead_16
+  - first:
+      213: 7505158387236685811
+    second: RedBehead_17
+  - first:
+      213: -2079114760873592905
+    second: RedBehead_18
+  - first:
+      213: -4344982713391749124
+    second: RedBehead_19
+  - first:
+      213: 2484432706443357330
+    second: RedBehead_20
+  - first:
+      213: 1257150318267760867
+    second: RedBehead_21
+  - first:
+      213: 7232140012411745818
+    second: RedBehead_22
+  - first:
+      213: 2385729746660031874
+    second: RedBehead_23
+  - first:
+      213: 2408639851054625627
+    second: RedBehead_24
+  - first:
+      213: -1551144233313099289
+    second: RedBehead_25
+  - first:
+      213: -1626793893329261102
+    second: RedBehead_26
+  - first:
+      213: 4607280775198692384
+    second: RedBehead_27
+  - first:
+      213: -234371239875718797
+    second: RedBehead_28
+  - first:
+      213: 7233297589387540473
+    second: RedBehead_29
+  - first:
+      213: -6767872860175977084
+    second: RedBehead_30
+  - first:
+      213: -9045332071500116439
+    second: RedBehead_31
+  - first:
+      213: 4807858873336476627
+    second: RedBehead_32
+  - first:
+      213: 7720640269174562724
+    second: RedBehead_33
+  - first:
+      213: -3857731561206720707
+    second: RedBehead_34
+  - first:
+      213: -483571935237642772
+    second: RedBehead_35
+  - first:
+      213: -1986187837082868301
+    second: RedBehead_36
+  - first:
+      213: 4142717264236060117
+    second: RedBehead_37
+  - first:
+      213: 2669951264498821545
+    second: RedBehead_38
+  - first:
+      213: 8007581251675147008
+    second: RedBehead_39
+  - first:
+      213: -924474675976543391
+    second: RedBehead_40
+  - first:
+      213: 7743191813957715343
+    second: RedBehead_41
+  - first:
+      213: -8084361845837552909
+    second: RedBehead_42
+  - first:
+      213: -191517996701258008
+    second: RedBehead_43
+  - first:
+      213: 5573082758877933306
+    second: RedBehead_44
+  - first:
+      213: -5882808514307434970
+    second: RedBehead_45
+  - first:
+      213: -4246764063596805159
+    second: RedBehead_46
+  - first:
+      213: -4090152920493727316
+    second: RedBehead_47
+  - first:
+      213: 7567288883533493737
+    second: RedBehead_48
+  - first:
+      213: -6019718573461984927
+    second: RedBehead_49
+  - first:
+      213: 4313364020874003004
+    second: RedBehead_50
+  - first:
+      213: -4064315773533919141
+    second: RedBehead_51
+  - first:
+      213: -2214774268643541767
+    second: RedBehead_52
+  - first:
+      213: 2987768363577904031
+    second: RedBehead_53
+  - first:
+      213: -3000796731452433244
+    second: RedBehead_54
+  - first:
+      213: 4875378693753206061
+    second: RedBehead_55
+  - first:
+      213: 4406604142615659747
+    second: RedBehead_56
+  - first:
+      213: -3306680820985065277
+    second: RedBehead_57
+  - first:
+      213: 5975061253122322065
+    second: RedBehead_58
+  - first:
+      213: 638262695440342000
+    second: RedBehead_59
+  - first:
+      213: 754081441781912634
+    second: RedBehead_60
+  - first:
+      213: 3603542513803528837
+    second: RedBehead_61
+  - first:
+      213: 7665009360785268783
+    second: RedBehead_62
+  - first:
+      213: -3592706551731847077
+    second: RedBehead_63
+  - first:
+      213: 514981505183938237
+    second: RedBehead_64
+  - first:
+      213: -3307746348056448891
+    second: RedBehead_65
+  - first:
+      213: -3668612243459310801
+    second: RedBehead_66
+  - first:
+      213: -9118075123346527665
+    second: RedBehead_67
+  - first:
+      213: -1272998259555179527
+    second: RedBehead_68
+  - first:
+      213: 4820227827212493815
+    second: RedBehead_69
+  - first:
+      213: 6354697683964760481
+    second: RedBehead_70
+  - first:
+      213: 4921428765238823565
+    second: RedBehead_71
+  - first:
+      213: -6806314279499619016
+    second: RedBehead_72
+  - first:
+      213: 662225284963194253
+    second: RedBehead_73
+  - first:
+      213: 1433990711533717901
+    second: RedBehead_74
+  - first:
+      213: 9149413634608959206
+    second: RedBehead_75
+  - first:
+      213: -4443726023409739838
+    second: RedBehead_76
+  - first:
+      213: 6822821191921161742
+    second: RedBehead_77
+  - first:
+      213: 8461804532943777585
+    second: RedBehead_78
+  - first:
+      213: 3070568864393105574
+    second: RedBehead_79
+  - first:
+      213: 3999822811415545449
+    second: RedBehead_80
+  - first:
+      213: 3544759664312638599
+    second: RedBehead_81
+  - first:
+      213: 2911714513520129894
+    second: RedBehead_82
+  - first:
+      213: 364821638210241780
+    second: RedBehead_83
+  - first:
+      213: 255427637966378394
+    second: RedBehead_84
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedBehead_0
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 6946
+        width: 261
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e370f34cf03bb0800000000000000
+      internalID: -4958185821007780135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_1
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 6948
+        width: 315
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351a1117af7a712d0800000000000000
+      internalID: -3307990707199696557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_2
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 7449
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3fbb4d9a2c70a0800000000000000
+      internalID: -6882579275459903819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_3
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 6948
+        width: 315
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed5a492f455d5f00800000000000000
+      internalID: 1107134881886526958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_4
+      rect:
+        serializedVersion: 2
+        x: 5461
+        y: 6944
+        width: 294
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801e81e2c53f53230800000000000000
+      internalID: 3618065452897984776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_5
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 7264
+        width: 160
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94633ade6e5579db0800000000000000
+      internalID: -4785261628740127159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_6
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 6863
+        width: 208
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab14e6af52fef760800000000000000
+      internalID: 7493693322626866082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_7
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 7113
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6764ed4a25efe90800000000000000
+      internalID: -6990058703575157066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6745
+        width: 755
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f4e471688bb880800000000000000
+      internalID: -8594125511752091783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_9
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 6923
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9324917f9dba910800000000000000
+      internalID: 1849811727269640659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_10
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6944
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4147ca300e0ade0800000000000000
+      internalID: -1323811984064113445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_11
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 6923
+        width: 256
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced50d28c859fcb0800000000000000
+      internalID: -4829731508606083386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_12
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 6944
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3984f11dd5c1a0800000000000000
+      internalID: -6789777794004336871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_13
+      rect:
+        serializedVersion: 2
+        x: 7688
+        y: 6738
+        width: 722
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e315ba35c5b110800000000000000
+      internalID: 1276142925366158553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5648
+        width: 274
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb72e8674bb12ba0800000000000000
+      internalID: -6115400903615677505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_15
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 5649
+        width: 308
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3865b8c8d08ce9970800000000000000
+      internalID: 8763661885427635843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_16
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 5652
+        width: 352
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5924ea4981440a640800000000000000
+      internalID: 5089142451293012629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_17
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 5796
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f749460acda72860800000000000000
+      internalID: 7505158387236685811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_18
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 5647
+        width: 415
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7bbdef3208523e0800000000000000
+      internalID: -2079114760873592905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_19
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 5647
+        width: 278
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7621d2e3583b3c0800000000000000
+      internalID: -4344982713391749124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_20
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 5569
+        width: 217
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c2be7226a7a7220800000000000000
+      internalID: 2484432706443357330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_21
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 5625
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08e95cd8b427110800000000000000
+      internalID: 1257150318267760867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_22
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5646
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16f0b51609bd5460800000000000000
+      internalID: 7232140012411745818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_23
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 5625
+        width: 270
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df0cf7090db1120800000000000000
+      internalID: 2385729746660031874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_24
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 5646
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f5f9de253d6120800000000000000
+      internalID: 2408639851054625627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_25
+      rect:
+        serializedVersion: 2
+        x: 7688
+        y: 5447
+        width: 757
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12af1c98a397ae0800000000000000
+      internalID: -1551144233313099289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4886
+        width: 127
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dda559b2977c69e0800000000000000
+      internalID: -1626793893329261102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_27
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 4908
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245432647950ff30800000000000000
+      internalID: 4607280775198692384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_28
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 4356
+        width: 398
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371d3ad59985fbcf0800000000000000
+      internalID: -234371239875718797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_29
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 4786
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7322a75d5d16460800000000000000
+      internalID: 7233297589387540473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_30
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 4353
+        width: 316
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485343ccd7fa312a0800000000000000
+      internalID: -6767872860175977084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_31
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4355
+        width: 375
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e89cab766887280800000000000000
+      internalID: -9045332071500116439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_32
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 4585
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33e631c22f8b240800000000000000
+      internalID: 4807858873336476627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_33
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 4347
+        width: 421
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd9ba4b69352b60800000000000000
+      internalID: 7720640269174562724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_34
+      rect:
+        serializedVersion: 2
+        x: 5466
+        y: 4350
+        width: 268
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d57f8595967ac0800000000000000
+      internalID: -3857731561206720707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_35
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 4278
+        width: 495
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5efc013e10a49f0800000000000000
+      internalID: -483571935237642772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_36
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 4318
+        width: 163
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b569797fa4af64e0800000000000000
+      internalID: -1986187837082868301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_37
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 4327
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd1bab1763ed7930800000000000000
+      internalID: 4142717264236060117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_38
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4348
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ae0077829d0520800000000000000
+      internalID: 2669951264498821545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_39
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 4348
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bcc20f8b4a02f60800000000000000
+      internalID: 8007581251675147008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_40
+      rect:
+        serializedVersion: 2
+        x: 7688
+        y: 4149
+        width: 757
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163e2962e2b9b23f0800000000000000
+      internalID: -924474675976543391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3035
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8589aafde7557b60800000000000000
+      internalID: 7743191813957715343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3051
+        width: 438
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a127ebb39ecf80800000000000000
+      internalID: -8084361845837552909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_43
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 3033
+        width: 154
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee68e8567975df0800000000000000
+      internalID: -191517996701258008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_44
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3050
+        width: 475
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee5c2ed31975d40800000000000000
+      internalID: 5573082758877933306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_45
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3033
+        width: 160
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626df0f13d01c5ea0800000000000000
+      internalID: -5882808514307434970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_46
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 3050
+        width: 467
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d30b60a5967015c0800000000000000
+      internalID: -4246764063596805159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_47
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 3029
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1e1f0e69bdc37c0800000000000000
+      internalID: -4090152920493727316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_48
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 3052
+        width: 315
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b6c77529640960800000000000000
+      internalID: 7567288883533493737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_49
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 3050
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692afce9d9a57ca0800000000000000
+      internalID: -6019718573461984927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_50
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 3029
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32452b49b52cdb30800000000000000
+      internalID: 4313364020874003004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_51
+      rect:
+        serializedVersion: 2
+        x: 5467
+        y: 3052
+        width: 261
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b586e7f6656a897c0800000000000000
+      internalID: -4064315773533919141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_52
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3050
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc73db798a8341e0800000000000000
+      internalID: -2214774268643541767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_53
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 2979
+        width: 491
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b063e2f7fa67920800000000000000
+      internalID: 2987768363577904031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_54
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 3050
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acdf9a85470b56d0800000000000000
+      internalID: -3000796731452433244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_55
+      rect:
+        serializedVersion: 2
+        x: 7688
+        y: 2851
+        width: 757
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25faa25713d8a340800000000000000
+      internalID: 4875378693753206061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1731
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e40f5ade17672d30800000000000000
+      internalID: 4406604142615659747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_57
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1721
+        width: 251
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c09697105f4c12d0800000000000000
+      internalID: -3306680820985065277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_58
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1752
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e6e8f6d8eabe250800000000000000
+      internalID: 5975061253122322065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_59
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1731
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbda133a809bd800800000000000000
+      internalID: 638262695440342000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_60
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1674
+        width: 241
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3410257319077a00800000000000000
+      internalID: 754081441781912634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_61
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1752
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a074ce2da520230800000000000000
+      internalID: 3603542513803528837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_62
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1731
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2066a517659f5a60800000000000000
+      internalID: 7665009360785268783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_63
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1672
+        width: 231
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b500ec91d64242ec0800000000000000
+      internalID: -3592706551731847077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_64
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1752
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6726253f4952700800000000000000
+      internalID: 514981505183938237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_65
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 1731
+        width: 228
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580fffcb8368812d0800000000000000
+      internalID: -3307746348056448891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_66
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 1672
+        width: 221
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b75f90a98761dc0800000000000000
+      internalID: -3668612243459310801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_67
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 1752
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aaa952cf6167180800000000000000
+      internalID: -9118075123346527665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_68
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 1731
+        width: 242
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e58bd3d6655ee0800000000000000
+      internalID: -1272998259555179527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_69
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 1671
+        width: 213
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f324719ba3e4e240800000000000000
+      internalID: 4820227827212493815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_70
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1752
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a197bbffdb603850800000000000000
+      internalID: 6354697683964760481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_71
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 1681
+        width: 486
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a037b136d6c4440800000000000000
+      internalID: 4921428765238823565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_72
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 1752
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a1c4693d1b81a0800000000000000
+      internalID: -6806314279499619016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_73
+      rect:
+        serializedVersion: 2
+        x: 7688
+        y: 1553
+        width: 756
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8553875362b03900800000000000000
+      internalID: 662225284963194253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_74
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 383
+        width: 483
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d894d2c54fe86e310800000000000000
+      internalID: 1433990711533717901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_75
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 454
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8bf9993f39fe70800000000000000
+      internalID: 9149413634608959206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_76
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 384
+        width: 478
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7d08fb9b6b452c0800000000000000
+      internalID: -4443726023409739838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_77
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 454
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d776a9b78fae50800000000000000
+      internalID: 6822821191921161742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_78
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 334
+        width: 493
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f67e0e36e5e6570800000000000000
+      internalID: 8461804532943777585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_79
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 454
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a096841d1adc9a20800000000000000
+      internalID: 3070568864393105574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_80
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 297
+        width: 522
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9668deea7a9328730800000000000000
+      internalID: 3999822811415545449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_81
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 454
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cdc7d3224813130800000000000000
+      internalID: 3544759664312638599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_82
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 271
+        width: 560
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66777b15cec786820800000000000000
+      internalID: 2911714513520129894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_83
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 454
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c5e7d85b101500800000000000000
+      internalID: 364821638210241780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBehead_84
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 256
+        width: 722
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a959dca55167b8300800000000000000
+      internalID: 255427637966378394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

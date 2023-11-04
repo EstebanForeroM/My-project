@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5eb318e665cd50a4ab3fcf6b4a5edbf1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116877
+  packageName: Black and White - Dark Forest
+  packageVersion: 2021.1
+  assetPath: Assets/Ciconia Studio/2D Environment/_Shared Files/Scripts/ParallaxLayer.cs
+  uploadId: 427784

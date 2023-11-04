@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 6e6ba5b21f966a246b104de291159431
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5181268530431256932
+    second: RedIdle_0
+  - first:
+      213: -6381593523761077929
+    second: RedIdle_1
+  - first:
+      213: -5087470578375197907
+    second: RedIdle_2
+  - first:
+      213: 391217849647131853
+    second: RedIdle_3
+  - first:
+      213: 7448523848144429301
+    second: RedIdle_4
+  - first:
+      213: 1906113112132973205
+    second: RedIdle_5
+  - first:
+      213: 7691120149432227978
+    second: RedIdle_6
+  - first:
+      213: 583457047038741189
+    second: RedIdle_7
+  - first:
+      213: -4400266609250097343
+    second: RedIdle_8
+  - first:
+      213: -2926651661250815731
+    second: RedIdle_9
+  - first:
+      213: 1998349206246809454
+    second: RedIdle_10
+  - first:
+      213: -2167717555868018791
+    second: RedIdle_11
+  - first:
+      213: 8084901580008418627
+    second: RedIdle_12
+  - first:
+      213: -248538057707574361
+    second: RedIdle_13
+  - first:
+      213: -129261930038909301
+    second: RedIdle_14
+  - first:
+      213: -1185543507426240508
+    second: RedIdle_15
+  - first:
+      213: -8415360351192201385
+    second: RedIdle_16
+  - first:
+      213: -4810672675798017081
+    second: RedIdle_17
+  - first:
+      213: -2120739649137570338
+    second: RedIdle_18
+  - first:
+      213: 2614499087184809533
+    second: RedIdle_19
+  - first:
+      213: 6807188986551534406
+    second: RedIdle_20
+  - first:
+      213: -4316839679083790509
+    second: RedIdle_21
+  - first:
+      213: -2908954756994832513
+    second: RedIdle_22
+  - first:
+      213: -2412938240208450461
+    second: RedIdle_23
+  - first:
+      213: 5699967857645497399
+    second: RedIdle_24
+  - first:
+      213: -8601048575977020088
+    second: RedIdle_25
+  - first:
+      213: 2509272073871435584
+    second: RedIdle_26
+  - first:
+      213: -3914808001386415596
+    second: RedIdle_27
+  - first:
+      213: -8295896828536126900
+    second: RedIdle_28
+  - first:
+      213: -5538311640155359873
+    second: RedIdle_29
+  - first:
+      213: -79903033380715216
+    second: RedIdle_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedIdle_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5257
+        width: 278
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469e342e64097e740800000000000000
+      internalID: 5181268530431256932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5257
+        width: 284
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751a94350860077a0800000000000000
+      internalID: -6381593523761077929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 5257
+        width: 308
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf1baa67ca569b0800000000000000
+      internalID: -5087470578375197907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 5257
+        width: 337
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc620ebf82ed6500800000000000000
+      internalID: 391217849647131853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 5257
+        width: 333
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0aca5d9f87e5760800000000000000
+      internalID: 7448523848144429301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_5
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 5257
+        width: 283
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927666c6cfd37a10800000000000000
+      internalID: 1906113112132973205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4255
+        width: 278
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88d1cfc6095cba60800000000000000
+      internalID: 7691120149432227978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 4255
+        width: 290
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca417ec71bd81800800000000000000
+      internalID: 583457047038741189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 4255
+        width: 313
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147a2ae15dc1fe2c0800000000000000
+      internalID: -4400266609250097343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_9
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 4255
+        width: 340
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0996d5f1d17267d0800000000000000
+      internalID: -2926651661250815731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_10
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 4255
+        width: 329
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f568fe3009bbb10800000000000000
+      internalID: 1998349206246809454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3253
+        width: 295
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997db153e58bae1e0800000000000000
+      internalID: -2167717555868018791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3253
+        width: 302
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d6560c627533070800000000000000
+      internalID: 8084901580008418627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_13
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3253
+        width: 318
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abac2d04f30d8cf0800000000000000
+      internalID: -248538057707574361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_14
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3253
+        width: 342
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ac01a5f4c43ef0800000000000000
+      internalID: -129261930038909301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_15
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 3253
+        width: 324
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4089616167a1c8fe0800000000000000
+      internalID: -1185543507426240508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2251
+        width: 325
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757484ad852a63b80800000000000000
+      internalID: -8415360351192201385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2251
+        width: 331
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb916c70be0d3db0800000000000000
+      internalID: -4810672675798017081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_18
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 2251
+        width: 336
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd8118768e9192e0800000000000000
+      internalID: -2120739649137570338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_19
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2251
+        width: 345
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ecb3d4111984420800000000000000
+      internalID: 2614499087184809533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_20
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 2251
+        width: 319
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6430b56315ef77e50800000000000000
+      internalID: 6807188986551534406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1249
+        width: 348
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f36e7fe218714c0800000000000000
+      internalID: -4316839679083790509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1249
+        width: 344
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e3a19f0151a7d0800000000000000
+      internalID: -2908954756994832513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_23
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1249
+        width: 340
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4b6f6475838ed0800000000000000
+      internalID: -2412938240208450461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_24
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1249
+        width: 337
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73caa1a119a5a1f40800000000000000
+      internalID: 5699967857645497399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_25
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 1249
+        width: 315
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a205f3efe2a880800000000000000
+      internalID: -8601048575977020088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 247
+        width: 310
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0472aef08a9b2d220800000000000000
+      internalID: 2509272073871435584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 247
+        width: 302
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a71814ddecba9c0800000000000000
+      internalID: -3914808001386415596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_28
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 247
+        width: 297
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4280d9b9cd0fdc80800000000000000
+      internalID: -8295896828536126900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_29
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 247
+        width: 293
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75f02118e6f323b0800000000000000
+      internalID: -5538311640155359873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIdle_30
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 247
+        width: 288
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035cdde4d9024eef0800000000000000
+      internalID: -79903033380715216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

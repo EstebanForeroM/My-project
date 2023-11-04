@@ -1,0 +1,1036 @@
+fileFormatVersion: 2
+guid: 8d86f76dd90185644aa78410ba49745a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -833605484206121003
+    second: RedPush_0
+  - first:
+      213: 3977135684536209176
+    second: RedPush_1
+  - first:
+      213: -8479425715665172506
+    second: RedPush_2
+  - first:
+      213: 5399177113849296529
+    second: RedPush_3
+  - first:
+      213: -1993389932068595875
+    second: RedPush_4
+  - first:
+      213: -6590671419690013604
+    second: RedPush_5
+  - first:
+      213: -475984175621908990
+    second: RedPush_6
+  - first:
+      213: -3333938284286553209
+    second: RedPush_7
+  - first:
+      213: -2851581548140428152
+    second: RedPush_8
+  - first:
+      213: 8267076311671277287
+    second: RedPush_9
+  - first:
+      213: -9125799352543479955
+    second: RedPush_10
+  - first:
+      213: 5721695004244807771
+    second: RedPush_11
+  - first:
+      213: -2451558170980094180
+    second: RedPush_12
+  - first:
+      213: 4979921901928535507
+    second: RedPush_13
+  - first:
+      213: 8084230434078267908
+    second: RedPush_14
+  - first:
+      213: 5645419180586626807
+    second: RedPush_15
+  - first:
+      213: 9007454330992763244
+    second: RedPush_16
+  - first:
+      213: 5253584276494988325
+    second: RedPush_17
+  - first:
+      213: 3625916902747526424
+    second: RedPush_18
+  - first:
+      213: -1796544860453314819
+    second: RedPush_19
+  - first:
+      213: 4946549237176338517
+    second: RedPush_20
+  - first:
+      213: 4123136505591868258
+    second: RedPush_21
+  - first:
+      213: 5943345694982254910
+    second: RedPush_22
+  - first:
+      213: 288643826409592333
+    second: RedPush_23
+  - first:
+      213: -6840338253532653301
+    second: RedPush_24
+  - first:
+      213: -5862276536340091663
+    second: RedPush_25
+  - first:
+      213: 4141520018279312204
+    second: RedPush_26
+  - first:
+      213: 3201324680305487902
+    second: RedPush_27
+  - first:
+      213: 4794082600574048447
+    second: RedPush_28
+  - first:
+      213: 3219397209035141045
+    second: RedPush_29
+  - first:
+      213: 8793469958431999784
+    second: RedPush_30
+  - first:
+      213: 7429716519794379106
+    second: RedPush_31
+  - first:
+      213: -9196268460352001199
+    second: RedPush_32
+  - first:
+      213: 832080637515387857
+    second: RedPush_33
+  - first:
+      213: 1583100972866625804
+    second: RedPush_34
+  - first:
+      213: -8740974416987466852
+    second: RedPush_35
+  - first:
+      213: 717383652751552048
+    second: RedPush_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedPush_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2942
+        width: 496
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df931f8a307e64f0800000000000000
+      internalID: -833605484206121003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2942
+        width: 496
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f8f4455df913730800000000000000
+      internalID: 3977135684536209176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_2
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2938
+        width: 507
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7077ecc37035a80800000000000000
+      internalID: -8479425715665172506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2938
+        width: 525
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196f76e9afabdea40800000000000000
+      internalID: 5399177113849296529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_4
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2935
+        width: 526
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5716301b6e0654e0800000000000000
+      internalID: -1993389932068595875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_5
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 2940
+        width: 501
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cae0e334b3984a0800000000000000
+      internalID: -6590671419690013604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_6
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2941
+        width: 488
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20659550ae6f469f0800000000000000
+      internalID: -475984175621908990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2355
+        width: 500
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783560e5bc87bb1d0800000000000000
+      internalID: -3333938284286553209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2354
+        width: 504
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840807b0b52d68d0800000000000000
+      internalID: -2851581548140428152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_9
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2352
+        width: 512
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e68638ca1e8ab270800000000000000
+      internalID: 8267076311671277287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_10
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2353
+        width: 528
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67f724e6d5aa5180800000000000000
+      internalID: -9125799352543479955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_11
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2354
+        width: 523
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509321aa4b876f40800000000000000
+      internalID: 5721695004244807771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_12
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 2353
+        width: 493
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f668815d05afdd0800000000000000
+      internalID: -2451558170980094180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1767
+        width: 515
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d553a5c59c3c1540800000000000000
+      internalID: 4979921901928535507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1767
+        width: 519
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a13a96fb4f03070800000000000000
+      internalID: 8084230434078267908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_15
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1767
+        width: 522
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feea0385de885e40800000000000000
+      internalID: 5645419180586626807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_16
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1768
+        width: 528
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a0619df7e00d70800000000000000
+      internalID: 9007454330992763244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_17
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1772
+        width: 521
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524bf06901b78e840800000000000000
+      internalID: 5253584276494988325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_18
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 1768
+        width: 484
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d95d4638d15230800000000000000
+      internalID: 3625916902747526424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1183
+        width: 527
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe50a9c7f36117e0800000000000000
+      internalID: -1796544860453314819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1174
+        width: 527
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55800e1c25ca5a440800000000000000
+      internalID: 4946549237176338517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_21
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1175
+        width: 527
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26baf387ec2583930800000000000000
+      internalID: 4123136505591868258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_22
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1177
+        width: 526
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b3ce9b610b7250800000000000000
+      internalID: 5943345694982254910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_23
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1190
+        width: 518
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d0c3e708710400800000000000000
+      internalID: 288643826409592333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_24
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1181
+        width: 474
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b099bae999c3211a0800000000000000
+      internalID: -6840338253532653301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 605
+        width: 515
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc6754cc8205aea0800000000000000
+      internalID: -5862276536340091663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_26
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 604
+        width: 513
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b25bf8382a97930800000000000000
+      internalID: 4141520018279312204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 603
+        width: 510
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10bc4cd5d36d6c20800000000000000
+      internalID: 3201324680305487902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 602
+        width: 507
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d81f99b0088240800000000000000
+      internalID: 4794082600574048447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_29
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 600
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6c6b54b89dac20800000000000000
+      internalID: 3219397209035141045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_30
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 596
+        width: 464
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827886f565ea80a70800000000000000
+      internalID: 8793469958431999784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 454
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26902387fc7ab1760800000000000000
+      internalID: 7429716519794379106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_32
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 10
+        width: 448
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b27992f8a406080800000000000000
+      internalID: -9196268460352001199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_33
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 9
+        width: 454
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3d5976ee42c8b00800000000000000
+      internalID: 832080637515387857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_34
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2
+        width: 461
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016a4b72fd48f510800000000000000
+      internalID: 1583100972866625804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_35
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 5
+        width: 471
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935fa45412d1b680800000000000000
+      internalID: -8740974416987466852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPush_36
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 9
+        width: 479
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eaded91a8a4f900800000000000000
+      internalID: 717383652751552048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
